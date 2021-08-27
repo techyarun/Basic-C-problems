@@ -1,5 +1,5 @@
 //printing star pattern --> (model 7)
-
+//Floyd's Triangle
 <--------------------
 	//OUTPUT Value
 	//if input=5
