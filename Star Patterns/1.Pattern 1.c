@@ -1,4 +1,4 @@
-//printing stars in right angle triangle format
+//printing stars pattern model 1
 <--------------------
 	//OUTPUT Value
 	//if input=5
