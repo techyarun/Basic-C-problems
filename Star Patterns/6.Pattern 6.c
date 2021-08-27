@@ -1,4 +1,4 @@
-//printing star pattern --> (model 5)
+//printing star pattern --> (model 6)
 
 <--------------------
 	//OUTPUT Value
