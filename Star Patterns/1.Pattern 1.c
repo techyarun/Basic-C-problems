@@ -1,5 +1,13 @@
 //printing stars in right angle triangle format
-
+<--------------------
+	//OUTPUT Value
+	//if input=5
+	*
+	* *
+	* * *
+	* * * *
+	* * * * *
+-------------------->	
 #include<Stdio.h>
 #include<conio.h>
 
