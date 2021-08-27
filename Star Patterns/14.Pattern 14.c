@@ -1,8 +1,8 @@
 //printing star pattern --> (model 14)
 //Hollow square pattern
 <--------------------
-//	//OUTPUT Value
-//	//if input=5
+	//OUTPUT Value
+	//if input=5
  * * * * *
  *       *
  *       *
