@@ -1,4 +1,4 @@
-//printing star pattern --> (model 12)
+//printing star pattern --> (model 13)
 //square pattern
 <--------------------
 	//OUTPUT Value
