@@ -1,4 +1,4 @@
-//printing star pattern --> (model 12)
+//printing star pattern --> (model 15)
 //triangle pattern
 <--------------------
 	//OUTPUT Value
@@ -7,7 +7,7 @@
 	     * * *
 	   * * * * *
 	 * * * * * * *
- * * * * * * * * *
+       * * * * * * * * *
 -------------------->	
   
 #include<stdio.h>
