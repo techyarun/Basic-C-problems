@@ -1,5 +1,15 @@
 //printing star pattern --> (model 2)
 
+<--------------------
+	//OUTPUT Value
+	//if input=5
+	* * * * *
+	* * * *
+	* * *
+	* * 
+	* 
+-------------------->
+
 #include<stdio.h>
 #include<conio.h>
 
