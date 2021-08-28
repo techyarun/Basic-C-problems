@@ -17,7 +17,7 @@ int main(){
 		scanf("%d",&a[i]);
 	}
 	big=a[0];
-	//to check wither it big or Not
+	//to check Either it big or Not
 	for(i=0;i<input;i++){
 		if(a[i]>big){
 			big=a[i];
